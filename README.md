@@ -1,2 +1,1 @@
-# Data Ming &amp; Biostatistics Group
-Data Ming &amp; Biostatistics Group at Central South University.
+# 个人及团队主页
