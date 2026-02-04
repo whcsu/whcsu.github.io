@@ -7,19 +7,19 @@ redirect_from:
   - /about.html
 ---
 
-# 个人简历
+# 团队简介
 
-理学博士（中南大学统计学专业，导师：许青松教授）、计算机科学与技术博士后（中南大学，合作导师：王建新教授）、生物统计专业博士后（美国加州大学洛杉矶分校UCLA，合作导师：Gang Li教授）。国家认证高级程序员（2003年）、系统分析师（2004年）。主要从事应用统计和机器学习等方面的研究工作。
+中南大学数学与统计学院生物统计与数据挖掘课题组是一个专注于利用先进统计方法与数据科学技术解决生物医学与公共卫生领域核心问题的研究团队。我们致力于在生存分析、高维基因组学数据分析、疾病风险预测模型以及真实世界证据挖掘等方向进行方法学创新与应用研究。通过紧密融合统计学理论、机器学习与领域知识，团队旨在推动精准医学发展，并为健康相关决策提供坚实的数据驱动支持。
 
-在Statistics in Medicine、Statistica Sinica、Artificial Intelligence in Medicine 、Knowledge-Based Systems、Reliability Engineering and System Safety等统计和机器学习期刊发表SCI论文40余篇，获软件著作权2项。	
+# About the Group
 
-主持国家社科基金一般项目（面上项目）、全国统计科研项目重点项目、教育部社科基金、湖南省社科基金、湖南省自科基金等纵向项目多项，主持企业合作横向课题多项。	是30余种SCI杂志的审稿人、国内外多个基金通讯评审专家。
+The Biostatistics and Data Mining Group at Central South University (CSU) is a research team dedicated to addressing pivotal challenges in biomedicine and public health through advanced statistical methodologies and data science technologies. We focus on methodological innovation and applied research in areas such as survival analysis, high-dimensional genomic data analysis, disease risk prediction modeling, and real-world evidence mining. By deeply integrating statistical theory, machine learning, and domain-specific knowledge, the group aims to advance precision medicine and provide robust data-driven support for health-related decision-making.
 
-#  团队照片
+#  团队照片[Group Photo]
 
 ![![图片说明]](/images/whlab.jpg)
 
 
-# 微信公众号
+# 微信公众号[Wechat Account]
 
 ![![微信公众号]](/images/csubiostat.jpg)
