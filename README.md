@@ -1,1 +1,1 @@
-# Biostatistics and Dataming Group at Central South University
+# Biostatistics and Data Mining Group at Central South University
