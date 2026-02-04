@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Biostatistics and Data Ming Group at Central South University"
+title                    : "Biostatistics and Data Ming Group at CSU"
 title_separator          : "-"
 name                     : &name "Hong Wang"
 description              : &description "Hong  Wang and Biostatistics and Data Ming Group at Central South University"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,9 +24,9 @@ repository               : "https://github.com/whcsu/whcsu.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Hong Wang"
+  name             : "Hong Wang(王洪)"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "PhD, Professor(CSU)"
   location         : "Changsha, China"
   employer         : "Central South University"
   uri              : # URL
@@ -51,7 +51,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : # Username
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
