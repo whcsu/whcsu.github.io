@@ -11,7 +11,7 @@ main:
   - title: "个人简历(CV)"
     url: /cv/
 
-    - title: "团队新闻(Team News)"
+  - title: "团队新闻(Team News)"
     url: /year-archive/
     
   - title: "主要论著(Publications)"
