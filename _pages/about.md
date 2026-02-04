@@ -14,3 +14,7 @@ redirect_from:
 在Statistics in Medicine、Statistica Sinica、Artificial Intelligence in Medicine 、Knowledge-Based Systems、Reliability Engineering and System Safety等统计和机器学习期刊发表SCI论文40余篇，获软件著作权2项。	
 
 主持国家社科基金一般项目（面上项目）、全国统计科研项目重点项目、教育部社科基金、湖南省社科基金、湖南省自科基金等纵向项目多项，主持企业合作横向课题多项。	是30余种SCI杂志的审稿人、国内外多个基金通讯评审专家。
+
+#  团队照片
+
+(/images/whlab.jpg)
