@@ -1,11 +1,24 @@
 ---
-title: 'Future Blog Post'
-date: 2199-01-01
-permalink: /posts/2012/08/blog-post-4/
+title: '团队新闻(Team News)-2019-2020-2021'
+date: 2021-12-30
+permalink: /posts/2022/12/blog-post-1/
 tags:
   - cool posts
   - category1
   - category2
 ---
 
-This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
+2019-2020-2021
+======
+- [12/2021] 厦门大学钟威教授应邀做线上报告！欢迎！  
+- [11/2021] 厦门大学方匡南教授应邀做线上报告！欢迎！  
+- [11/2021] 北京大学邓明华教授应邀做线上报告！欢迎！  
+- [07/2021] One paper accepted by R Journal！Congratulations！  
+- [07/2021] 2021届硕士张转、申贞远入职顺丰科技！祝贺！  
+- [07/2021] 2021届硕士张转获评湖南省优秀毕业生！祝贺！  
+- [03/2021] One paper accepted by Journal of Statistical Computation and Simulation！Congratulations！  
+- [06/2020] 2020届硕士洪铃入职宁波银行！祝贺！  
+- [12/2019] 王洪老师应邀访问美康科技，讨论生物统计方法在医疗检测领域的落地与应用。  
+- [10/2019] 澳大利亚Griffith大学Shu Kay Angus Ng应邀来长沙讲学！欢迎！  
+- [10/2019] 海路科技来访，讨论大数据分析技术在肠道病菌检测领域的落地与应用。欢迎！  
+- [03/2019] 王洪老师应邀访问继善科技，讨论大数据分析技术在故障检测领域的落地与应用。
