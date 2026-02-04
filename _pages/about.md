@@ -17,4 +17,4 @@ redirect_from:
 
 #  团队照片
 
-(/images/whlab.jpg)
+![![图片说明]](/images/whlab.jpg)
