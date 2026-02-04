@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "生物统计和数据挖掘课题组"
+title: "Biostatistics and Data Mining Group at CSU(生物统计和数据挖掘课题组)"
 author_profile: true
 redirect_from: 
   - /about/
