@@ -18,3 +18,8 @@ redirect_from:
 #  团队照片
 
 ![![图片说明]](/images/whlab.jpg)
+
+
+# 微信公众号
+
+![![微信公众号]](/images/csubiostat.jpg)
