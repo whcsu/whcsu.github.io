@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Biostatistics and Data Ming Group at Central South University"
+title: "Biostatistics and Data Ming Group at CSU"
 author_profile: true
 redirect_from: 
   - /about/
