@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Biostatistics and Data Ming Group at CSU"
+title                    : "Biostatistics and Data Mining Group at CSU"
 title_separator          : "-"
 name                     : &name "Hong Wang"
 description              : &description "Hong  Wang and Biostatistics and Data Ming Group at Central South University"   # Update this with a general description of your site, this is the default if not overridden by a page
