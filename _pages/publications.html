@@ -9,54 +9,28 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-Liu Z, Wang H. Variable Selection and Estimation for PSH Regression Models via Generalized Seamless-L0 Penalty.Statistics and Computing, 2026, 36(1): 59.  (PhD student as first author)
+{% include base_path %}
 
-Wang H, Ling Hong. A Fast Survival Support Vector Regression Approach to Large Scale Credit Scoring Via Safe Screening.Big Data, 2025,13(4), 304-318.
+<!-- New style rendering if publication categories are defined -->
+{% if site.publication_category %}
+  {% for category in site.publication_category  %}
+    {% assign title_shown = false %}
+    {% for post in site.publications reversed %}
+      {% if post.category != category[0] %}
+        {% continue %}
+      {% endif %}
+      {% unless title_shown %}
+        <h2>{{ category[1].title }}</h2><hr />
+        {% assign title_shown = true %}
+      {% endunless %}
+      {% include archive-single.html %}
+    {% endfor %}
+  {% endfor %}
+{% else %}
+  {% for post in site.publications reversed %}
+    {% include archive-single.html %}
+  {% endfor %}
+{% endif %}
 
-Zili Liu, Wang H, Chunjie Wang, Xinyuan Song*. Simultaneous Variable Selection and Estimation of Survival Model with Informative Censoring.Statistica Sinica, 2024. DOI: 10.5705/ss.202023.0227.  (Collaboration with Prof. Xinyuan Song from The Chinese University of Hong Kong; PhD student as first author)
 
-Cheng X, Li G, Wang H*. The Concordance Filter: An Adaptive Model-Free Feature Screening Procedure.Computational Statistics, 2024, 39(5): 2413–2436.  (Collaboration with Prof. Gang Li from UCLA; PhD student as first author)
 
-Liu Z, Wang H*. Simultaneous Variable Selection and Estimation for Survival Data via the Gaussian Seamless-L0 Penalty.Statistics in Medicine, 2024, 43(8): 1509–1526.  (PhD student as first author)
-
-Abba B, Wang H*, Muhammad M, et al. A Robust Bathtub-Shaped Failure Time Model for a Two-Component System with Applications to Complete and Censored Reliability Data.Quality Technology & Quantitative Management, 2024, 21(3): 309–339.  (PhD student as first author)
-
-Abba B, Wang H*. A New Failure Times Model for One and Two Failure Modes System: A Bayesian Study with Hamiltonian Monte Carlo Simulation.Proceedings of the Institution of Mechanical Engineers, Part O: Journal of Risk and Reliability, 2024, 238(2): 304–323.  (PhD student as first author)
-
-Cheng X, Wang H*. A Generic Model-Free Feature Screening Procedure for Ultra-High Dimensional Data with Categorical Response.Computer Methods and Programs in Biomedicine, 2023, 229: 107269.  (PhD student as first author)
-
-Cheng X, Wang S, Wang H*, Shu Kay Ng. Deep Survival Forests for Extremely High Censored Data.Applied Intelligence, 2023, 53(6): 7041–7055.  (Collaboration with Prof. Shu Kay Ng; PhD student as first author)
-
-Cheng X, Wang S, Zou Y, Wang H*. Deep Survival Forests with Feature Screening.Biomedical Signal Processing and Control, 2023, 79: 104195.  (PhD student as first author)
-
-Zhou H, Wang H*, Wang S, et al. SurvMetrics: An R Package for Predictive Evaluation Metrics in Survival Analysis.The R Journal, 2022, 14(4).  (Master’s student as first author)
-
-Tian B, Liu Z, Wang H*. Non-Marginal Feature Screening for Varying Coefficient Competing Risks Model.Statistics & Probability Letters, 2022, 190: 109648.  (Master’s student as first author)
-
-Wang H, Shen Z, Tan Z, Li G*. Fast Lasso-Type Safe Screening for Fine-Gray Competing Risks Model with Ultrahigh Dimensional Covariates.Statistics in Medicine, 2022, 41(24): 4941–4960.  (Collaboration with Prof. Gang Li from UCLA)
-
-Abba B, Wang H*, Bakouch H S. A Reliability and Survival Model for One and Two Failure Modes System with Applications to Complete and Censored Datasets.Reliability Engineering & System Safety, 2022, 223: 108460.  (PhD student as first author)
-
-Zhou L, Wang H*. A Combined Feature Screening Approach of Random Forest and Filter-Based Methods for Ultra-High Dimensional Data.Current Bioinformatics, 2022, 17(4): 344–357.
-
-Wang H, Abba B, Pan J*. Classical and Bayesian Estimations of Improved Weibull–Weibull Distribution for Complete and Censored Failure Times Data.Applied Stochastic Models in Business and Industry, 2022, 38(6): 997–1018.  (Collaboration with Prof. Jianxin Pan from The University of Manchester & UIC, Beijing Normal University-Hong Kong Baptist University United International College)
-
-Zhang Z#, Shen Z#, Wang H*, Shu Kay Ng. A Fast Adaptive Lasso for the Cox Regression via Safe Screening Rules.Journal of Statistical Computation and Simulation, 2021, 91(14): 3005–3027.  (Collaboration with Prof. Shu Kay Ng; Master’s student as first author)
-
-Wang H, Li N, Li S, Li G*. JMcmprsk: An R Package for Joint Modelling of Longitudinal and Survival Data with Competing Risks.The R Journal, 2021, 13(1): 53.  (Collaboration with Prof. Gang Li from UCLA)
-
-Zhao N, Xu Q, Tang M, Wang H*. Variable Screening for Near Infrared (NIR) Spectroscopy Data Based on Ridge Partial Least Squares Regression.Combinatorial Chemistry & High Throughput Screening, 2020, 23(8): 740–756.
-
-Zhao N, Xu Q, Tang M L, Wang H*. High-Dimensional Variable Screening under Multicollinearity.Stat, 2020, 9(1): e272.
-
-Wang H, Li G*. Extreme Learning Machine Cox Model for High-Dimensional Survival Analysis.Statistics in Medicine, 2019, 38(12): 2139–2156.  (Collaboration with Prof. Gang Li from UCLA)
-
-Wang H, Zhou L*. SurvELM: An R Package for High Dimensional Survival Analysis with Extreme Learning Machine.Knowledge-Based Systems, 2018, 160: 28–33.
-
-Zhou L, Wang H*, Xu Q. Survival Forest with Partial Least Squares for High Dimensional Censored Data.Chemometrics and Intelligent Laboratory Systems, 2018, 179: 12–21.
-
-Wang H, Wang J*, Zhou L. A Survival Ensemble of Extreme Learning Machine.Applied Intelligence, 2018, 48: 1846–1858.  (Collaboration with Prof. Jianxin Wang from Central South University)
-
-Wang H, Chen X, Li G*. Survival Forests with R-squared Splitting Rules.Journal of Computational Biology, 2018, 25(4): 388–395.  (Collaboration with Prof. Gang Li from UCLA)
-
-Wang H, Zhou L*. Random Survival Forest with Space Extensions for Censored Data.Artificial Intelligence in Medicine, 2017, 79: 52–61.
