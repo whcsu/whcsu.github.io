@@ -11,6 +11,8 @@ redirect_from:
 
 简历
 ======
+男，博士，教授，博士生导师。
+
 文学学士（英语专业，中南大学）、工学硕士（计算机应用技术，湖南大学）、理学博士（统计学，中南大学）、计算机科学与技术博士后（中南大学）、生物统计专业博士后（美国加州大学洛杉矶分校UCLA公共卫生学院）。国家认证高级程序员、系统分析师。
 
 主要从事生物医学统计和数据科学等方面的研究工作。第一和通讯作者发表SCI论文30余篇，出版教材1部（机械工业出版社）。
@@ -21,7 +23,7 @@ redirect_from:
 
 Resume
 ======
-Bachelor of Arts (English, Central South University), Master of Engineering (Computer Application Technology, Hunan University), Doctor of Science (Statistics, Central South University), Postdoctoral Fellow in Computer Science and Technology (Central South University), Postdoctoral Fellow in Biostatistics (University of California, Los Angeles (UCLA) School of Public Health). Nationally Certified Senior Programmer and System Analyst. 
+PhD in Statistics (Central South University), Professor. Postdoctoral Fellow in Computer Science and Technology (Central South University), Postdoctoral Fellow in Biostatistics (University of California, Los Angeles (UCLA) School of Public Health). Nationally Certified Senior Programmer and System Analyst. 
 
 Mainly engaged in research in biomedical statistics and data science. Has published over 30 SCI-indexed papers as first or corresponding author and authored one textbook (published by China Machine Press). Has presided over multiple vertical projects, including two National Social Science Fund General Projects, a Key Project of the National Statistical Scientific Research Project, a Ministry of Education Humanities and Social Sciences Fund Project, two Hunan Social Science Fund General Projects, a Hunan Natural Science Fund General Project, as well as numerous enterprise-sponsored horizontal projects. 
 
