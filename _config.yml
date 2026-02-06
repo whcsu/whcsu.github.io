@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Biostatistics & Data Mining Group at CSU"
 title_separator          : "-"
 name                     : &name "Hong Wang"
-description              : &description "Hong  Wang and Biostatistics and Data Ming Group at Central South University"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Hong  Wang and Biostatistics & Data Ming Group at Central South University"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://whcsu.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
