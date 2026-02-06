@@ -19,7 +19,7 @@ redirect_from:
 
 主持国家社科基金（面上项目2项）、全国统计科研项目重点项目、教育部人文社科基金、湖南省社科基金（面上项目2项）、湖南省自科基金面上项目等纵向项目多项，主持企业合作横向课题多项。
 
-是中国现场统计研究会大数据统计分会常务理事，是澳大利亚研究理事会（ARC）研究项目通讯评审专家，是Statistics in Medicine、Artificial Intelligence in Medicine、Lifetime Data Analysis、BMJ、BMC Medical Research Methodology、BMC Caner、BMC Public Health、Cancer Epidemiology、Journal of Health, Population and Nutrition（医学统计类），Statistica Sinica、Neural Networks、Knowledge-Based Systems、Expert Systems With Applications、Information Sciences（统计学和数据科学类），R Journal（统计软件类）等30余种SCI杂志的审稿人。
+是中国现场统计研究会大数据统计分会常务理事，是澳大利亚研究理事会（ARC）研究项目通讯评审专家，是Statistics in Medicine、Artificial Intelligence in Medicine、Lifetime Data Analysis、BMJ、BMC Medical Research Methodology、BMC Caner、BMC Public Health、Cancer Epidemiology、Journal of Health, Population and Nutrition（医学统计类），Statistica Sinica、Reliability Engineering & System Safety、Neural Networks、Knowledge-Based Systems、Expert Systems With Applications、Information Sciences（统计学和数据科学类），R Journal（统计软件类）等30余种SCI杂志的审稿人。
 
 Resume
 ======
