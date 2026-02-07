@@ -1,0 +1,9 @@
+---
+title: "A generic model-free feature screening procedure for ultra-high dimensional data with categorical response"
+collection: publications
+permalink: /publication/2023-01-01-A-generic-model-free-feature-screening-procedure-for-ultra-high-dimensional-data-with-categorical-response
+date: 2023-01-01
+venue: 'Computer Methods and Programs in Biomedicine'
+citation: ' Xuewei Cheng,  Hong Wang, &quot;A generic model-free feature screening procedure for ultra-high dimensional data with categorical response.&quot; Computer Methods and Programs in Biomedicine, 2023.'
+---
+Use [Google Scholar](https://scholar.google.com/scholar?q=A+generic+model+free+feature+screening+procedure+for+ultra+high+dimensional+data+with+categorical+response){:target="_blank"} for full citation
