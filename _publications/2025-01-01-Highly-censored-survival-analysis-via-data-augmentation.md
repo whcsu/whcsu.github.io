@@ -1,9 +1,0 @@
----
-title: "Highly censored survival analysis via data augmentation"
-collection: publications
-permalink: /publication/2025-01-01-Highly-censored-survival-analysis-via-data-augmentation
-date: 2025-01-01
-venue: 'Biomedical Signal Processing and Control'
-citation: ' Hanpu Zhou,  Xinyi Zhang,  Hong Wang, &quot;Highly censored survival analysis via data augmentation.&quot; Biomedical Signal Processing and Control, 2025.'
----
-Use [Google Scholar](https://scholar.google.com/scholar?q=Highly+censored+survival+analysis+via+data+augmentation){:target="_blank"} for full citation

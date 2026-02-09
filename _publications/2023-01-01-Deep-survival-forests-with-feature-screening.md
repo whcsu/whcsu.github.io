@@ -1,9 +1,0 @@
----
-title: "Deep survival forests with feature screening"
-collection: publications
-permalink: /publication/2023-01-01-Deep-survival-forests-with-feature-screening
-date: 2023-01-01
-venue: 'Biomedical Signal Processing and Control'
-citation: ' Xuewei Cheng,  Sizheng Wang,  Yi Zou,  Badamasi Abba,  Hong Wang, &quot;Deep survival forests with feature screening.&quot; Biomedical Signal Processing and Control, 2023.'
----
-Use [Google Scholar](https://scholar.google.com/scholar?q=Deep+survival+forests+with+feature+screening){:target="_blank"} for full citation

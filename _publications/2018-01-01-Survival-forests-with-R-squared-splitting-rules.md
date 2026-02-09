@@ -1,9 +1,0 @@
----
-title: "Survival forests with R-squared splitting rules"
-collection: publications
-permalink: /publication/2018-01-01-Survival-forests-with-R-squared-splitting-rules
-date: 2018-01-01
-venue: 'Journal of Computational Biology'
-citation: ' Hong Wang,  Xiaolin Chen,  Gang Li, &quot;Survival forests with R-squared splitting rules.&quot; Journal of Computational Biology, 2018.'
----
-Use [Google Scholar](https://scholar.google.com/scholar?q=Survival+forests+with+R+squared+splitting+rules){:target="_blank"} for full citation
